@@ -8,4 +8,4 @@ print ("Password: ", pwd)
 
 from mathcalc import add
 
-print (add(5,3))
+
